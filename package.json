@@ -1,0 +1,9 @@
+{
+  "name": "example4",
+  "version": "0.1.0",
+  "description": "requirejs using grunt",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-requirejs": "~0.4.1"
+  }
+}
